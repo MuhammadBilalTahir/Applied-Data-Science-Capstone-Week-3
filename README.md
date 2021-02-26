@@ -1,5 +1,4 @@
 # Applied-Data-Science-Capstone-Week-3
-**Applied Data Science Capstone Week 3**
 
 **Peer-graded Assignment: Segmenting and Clustering Neighborhoods in Toronto**
 
